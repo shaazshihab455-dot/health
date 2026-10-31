@@ -1,0 +1,19 @@
+{
+  "name": "medicine-leaflet-explainer",
+  "version": "1.0.0",
+  "description": "Plain language explainer for medicine leaflets, labels, and package inserts.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "medicine",
+    "healthcare",
+    "leaflet",
+    "accessibility",
+    "plain-language"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}
